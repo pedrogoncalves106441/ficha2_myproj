@@ -1,4 +1,12 @@
 Este é o exemplo de um ficheiro de texto file3
 
+<h1>Listas de coisas</h1>
 
-Fiz uma alteração
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
